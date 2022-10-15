@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "cora-energy-meter-app",
+    "slug": "cora-energy-meter-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
